@@ -21,5 +21,5 @@ To successfully run this example, we recommend the following VS Code extensions:
 - To test the Python code, install `dev-requirements.txt` into your virtual environment. 
 - Navigate to the Test Panel to configure your Python test or by triggering the **Python: Configure Tests** command from the Command Palette
 - Run tests in the Test Panel or by clicking the Play Button next to the individual tests in the `test_calculations.py` file
-- updated thi sfike
-
+- updated this file
+- added one more time
